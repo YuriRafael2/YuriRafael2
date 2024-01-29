@@ -7,7 +7,6 @@
 ##
 
 <div>
-  <a href="mailto: yurirafaeldeoliveira2@hotmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/yuri-rafael-285629196/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>
   <a href="https://codepen.io/YuriRafael2" target="_blank"><img src="https://img.shields.io/badge/-Codepen-black?style=flat&logo=Codepen&logoColor=white" alt="Codepen" /></a>
 </div>
