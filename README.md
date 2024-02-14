@@ -1,10 +1,10 @@
-## Olá! Meu nome é Yuri Rafael
+# Olá! Meu nome é Yuri Rafael
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriRafael2&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
-##
+#
 
 <div>
   <a href="https://www.linkedin.com/in/yuri-rafael-285629196/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>
