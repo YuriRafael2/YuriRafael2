@@ -2,9 +2,7 @@
 
 <div align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriRafael2&layout=compact&langs_count=8&theme=radical"/>
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=YuriRafael2&show_icons=true&theme=radical">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=YuriRafael2&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical"/>
 </div>
 
 #
