@@ -1,6 +1,6 @@
 # Olá! Meu nome é Yuri Rafael
 
-<div align="center">
+<div >
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriRafael2&layout=compact&langs_count=8&theme=radical"/>
 </div>
