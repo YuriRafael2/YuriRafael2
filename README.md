@@ -1,6 +1,6 @@
 # Olá! Meu nome é Yuri Rafael
 
-<div>
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriRafael2&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
